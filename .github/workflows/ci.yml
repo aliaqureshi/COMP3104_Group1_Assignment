@@ -1,0 +1,29 @@
+name: COMP3104 Group 1 CI
+
+on:
+  push:
+    branches:
+      - main
+      - '101535665-Alia'
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Display repository information
+        run: |
+          echo "COMP3104 Group 1 Assignment"
+          echo "GitHub Actions CI pipeline is running successfully."
+
+      - name: List repository files
+        run: ls -la
+
+      - name: CI completed
+        run: echo "CI workflow completed successfully."
