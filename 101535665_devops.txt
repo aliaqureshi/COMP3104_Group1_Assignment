@@ -7,3 +7,5 @@ In this course, students learn how developers can collaborate using repositories
 Continuous integration helps developers regularly combine and test their changes. CI/CD can automate parts of the development process and helps teams identify problems earlier.
 
 Learning GitHub Actions also provides experience with automated workflows. These skills are useful when working on software projects with multiple developers.
+
+Git and GitHub are important tools used throughout COMP3104. Git provides version control for tracking changes, while GitHub allows developers to store repositories remotely and collaborate with other team members.
