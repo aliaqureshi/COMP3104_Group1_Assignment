@@ -1,0 +1,5 @@
+COMP3104 DevOps Course
+
+COMP3104 introduces students to DevOps concepts and practices used in software development. The course covers topics such as version control, Git, GitHub, continuous integration, and continuous deployment.
+
+In this course, students learn how developers can collaborate using repositories, branches, commits, and pull requests. These tools help teams manage changes to a project while keeping their work organized.
