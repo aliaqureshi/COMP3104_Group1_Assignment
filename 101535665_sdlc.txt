@@ -3,3 +3,7 @@ DevOps in the Software Development Lifecycle
 DevOps is important in the software development lifecycle because it encourages collaboration between development and operations teams. It helps make software development, testing, and deployment more organized and efficient.
 
 Using practices such as version control and continuous integration allows teams to track changes and identify problems throughout development. This can improve the reliability and maintainability of software.
+
+DevOps also supports automation throughout the software development lifecycle. Automated building, testing, and deployment can reduce manual errors and make it easier for teams to release software consistently.
+
+By integrating DevOps practices into the SDLC, teams can receive feedback earlier and respond to changes more efficiently.
