@@ -9,3 +9,5 @@ Continuous integration helps developers regularly combine and test their changes
 Learning GitHub Actions also provides experience with automated workflows. These skills are useful when working on software projects with multiple developers.
 
 Git and GitHub are important tools used throughout COMP3104. Git provides version control for tracking changes, while GitHub allows developers to store repositories remotely and collaborate with other team members.
+
+Branching allows each developer to work independently without immediately changing the main branch. Changes can later be reviewed through a pull request before they are merged into the main project.
