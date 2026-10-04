@@ -7,8 +7,8 @@ This repository contains the COMP3104 DevOps group assignment. The project demon
 - **Leader:** Alia Qureshi - 101535665 - GitHub: https://github.com/aliaqureshi
 - Aaron Shun Balayo - 101575606
 - Enna Prudenciano - 101331486
-- Camille Yu - 101568394
-- 
+- Camille Yu - 101568394 -GitHub:https://github.com/kidcat8288
+-
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
