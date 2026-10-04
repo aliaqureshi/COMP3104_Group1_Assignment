@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - '101535665-Alia'
+      - '101568394-CamilleYu'
   pull_request:
     branches:
       - main
