@@ -1,0 +1,6 @@
+DevOps in the Software Development Lifecycle
+
+DevOps brings development and operations teams together so that software can be planned, built, tested, and released in a smoother and more reliable way. Instead of working in separate stages, teams share responsibility for the whole lifecycle.
+Version control and continuous integration play a key role. Every change is recorded, and automated builds and tests catch problems soon after they are introduced, which makes the software easier to maintain.
+Automation is another major benefit. When building, testing, and deploying happen automatically, there are fewer manual mistakes and releases become more consistent and repeatable.
+DevOps also improves teamwork. Developers work on separate branches, review one another's code, resolve conflicts, and merge their work into one shared codebase. This leads to faster feedback and makes it easier for the team to adapt when requirements change.

@@ -1,0 +1,6 @@
+COMP3104 DevOps Course
+
+COMP3104 is a course that teaches the core ideas behind DevOps and how they are used in real software projects. Topics include version control, Git, GitHub, continuous integration, and continuous deployment.
+A big part of the course is learning to work as a team. Using repositories, branches, commits, and pull requests, each person can contribute their own work without getting in the way of anyone else.
+Continuous integration means changes are merged and tested often, so mistakes are found early instead of piling up. With GitHub Actions, these checks run automatically every time code is pushed, which saves time and reduces human error.
+Git tracks the full history of a project, and GitHub makes it easy to share that history and review each other's work. Working on a personal branch and opening a pull request keeps the main branch stable while still letting everyone collaborate.
