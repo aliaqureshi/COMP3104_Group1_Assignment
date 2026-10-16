@@ -11,3 +11,9 @@ Branching and Teamwork
 A big part of the class is learning how branching works so we don't mess up each other's code. For our group project, everyone gets their own personal branch named with their student ID and name. This means we can work on our own tasks safely without touching the main project file until we're ready.
 
 When we finish our work, we make a pull request. This lets the team leader and other group members check our code, make sure everything looks good, and merge it into the main branch safely.
+
+Automated Pipelines and Tools
+
+We also look at CI/CD (Continuous Integration and Continuous Deployment) using GitHub Actions. By setting up workflows, the system can automatically run checks and tests every time someone pushes code or opens a pull request. This helps catch mistakes early before they become bigger problems.
+
+I feel that overall, learning these tools gives us great hands on practice for working on real world software development teams after graduation.
