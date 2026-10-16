@@ -10,3 +10,7 @@ Each of the campuses specialize in different fields:
 1. Casa Loma Campus (160 Kendal Ave) - Home to the School of Computer Technology and construction programs.
 2. St. James Campus (200 King St E) - Focuses on business, hospitality, and community services.
 3. Waterfront Campus (51 Dockside Dr) - Dedicated to health sciences and design.
+
+I’m a Computer Programming and Analysis student taking classes at the Casa Loma campus.
+In my program, we do a lot of hands-on lab work and projects with Java, Spring Boot microservices, databases, and web development.
+Working on lab assignments and group projects with Git has really helped me learn how real software development works.
