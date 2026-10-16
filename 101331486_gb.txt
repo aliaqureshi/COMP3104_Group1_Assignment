@@ -1,0 +1,12 @@
+George Brown College - Computer Programming & Analysis (T197)
+
+George Brown College is a public college located in downtown Toronto, Ontario.
+
+It offers different programs across technology, business, health sciences, and arts.
+
+George Brown College serves over 30,000 full-time students across the three campuses located in Toronto.
+Each of the campuses specialize in different fields:
+
+1. Casa Loma Campus (160 Kendal Ave) - Home to the School of Computer Technology and construction programs.
+2. St. James Campus (200 King St E) - Focuses on business, hospitality, and community services.
+3. Waterfront Campus (51 Dockside Dr) - Dedicated to health sciences and design.
