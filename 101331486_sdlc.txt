@@ -1,0 +1,13 @@
+DevOps in the SDLC
+
+The SDLC (Software Development Lifecycle) is basically the step-by-step plan teams use to build and release software. 
+
+In the past, developers and IT operations worked separately, which caused a lot of miscommunication and delays when pushing out new updates. DevOps fixes this by getting both teams to work together from the very start.
+
+Continuous Integration (CI)
+
+CI makes a huge difference in keeping our code clean. Every time someone pushes code or opens a pull request, automated tests run in the background to make sure nothing is broken. Catching bugs early saves us a ton of time and avoids bigger problems.
+
+Continuous Deployment (CD)
+
+CD automates pushing software into test environments or live production. Instead of copying files manually, where it's easy to forget a step or make a mistake; automated pipelines handle it for us so everything runs smoothly.
