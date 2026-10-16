@@ -11,3 +11,9 @@ CI makes a huge difference in keeping our code clean. Every time someone pushes 
 Continuous Deployment (CD)
 
 CD automates pushing software into test environments or live production. Instead of copying files manually, where it's easy to forget a step or make a mistake; automated pipelines handle it for us so everything runs smoothly.
+
+Branching and Teamwork
+
+Using separate Git branches lets everyone work on their own tasks without messing up the main branch. Pull requests also give us a chance to review each other's work before merging.
+
+Using DevOps practices in the SDLC makes teamwork easier, speeds up releases, and keeps software running well.
