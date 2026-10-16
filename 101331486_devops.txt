@@ -5,3 +5,9 @@ COMP 3104 is all about learning modern DevOps practices and how developers and I
 Through our labs, we learn how to use Git to keep track of every change we make in our code. 
 If something breaks or a bug pops up, we can easily go back to an older version. 
 Using GitHub also gives us a great shared space online to keep our project files together and work as a team.
+
+Branching and Teamwork
+
+A big part of the class is learning how branching works so we don't mess up each other's code. For our group project, everyone gets their own personal branch named with their student ID and name. This means we can work on our own tasks safely without touching the main project file until we're ready.
+
+When we finish our work, we make a pull request. This lets the team leader and other group members check our code, make sure everything looks good, and merge it into the main branch safely.
