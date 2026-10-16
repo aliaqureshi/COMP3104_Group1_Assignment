@@ -1,0 +1,7 @@
+COMP 3104 - DevOps Course Notes
+
+COMP 3104 is all about learning modern DevOps practices and how developers and IT teams work together to build and launch software. 
+
+Through our labs, we learn how to use Git to keep track of every change we make in our code. 
+If something breaks or a bug pops up, we can easily go back to an older version. 
+Using GitHub also gives us a great shared space online to keep our project files together and work as a team.
