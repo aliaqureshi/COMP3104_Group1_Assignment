@@ -8,7 +8,6 @@ This repository contains the COMP3104 DevOps group assignment. The project demon
 - Aaron Shun Balayo - 101575606 - GitHub: https://github.com/ricosuave141
 - Enna Prudenciano - 101331486 - GitHub: https://github.com/ninakoguma
 - Camille Yu - 101568394 - GitHub: https://github.com/kidcat8288
-- 
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
